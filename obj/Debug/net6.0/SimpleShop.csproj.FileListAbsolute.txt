@@ -1,0 +1,15 @@
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/SimpleShop.csproj.AssemblyReference.cache
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/SimpleShop.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/SimpleShop.AssemblyInfoInputs.cache
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/SimpleShop.AssemblyInfo.cs
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/SimpleShop.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/SimpleShop/bin/Debug/net6.0/SimpleShop
+/home/user/RiderProjects/SimpleShop/bin/Debug/net6.0/SimpleShop.deps.json
+/home/user/RiderProjects/SimpleShop/bin/Debug/net6.0/SimpleShop.runtimeconfig.json
+/home/user/RiderProjects/SimpleShop/bin/Debug/net6.0/SimpleShop.dll
+/home/user/RiderProjects/SimpleShop/bin/Debug/net6.0/SimpleShop.pdb
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/SimpleShop.dll
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/refint/SimpleShop.dll
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/SimpleShop.pdb
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/SimpleShop.genruntimeconfig.cache
+/home/user/RiderProjects/SimpleShop/obj/Debug/net6.0/ref/SimpleShop.dll
